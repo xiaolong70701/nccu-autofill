@@ -21,15 +21,13 @@
 
 ## 安裝教學
 
-1. 點擊右上角「Code」→「Download ZIP」下載本專案  
-   或直接開啟連結：  
-   [https://github.com/你的帳號/nccu-autofill/archive/refs/heads/main.zip](https://github.com/你的帳號/nccu-autofill/archive/refs/heads/main.zip)
+1. 點擊右上角「Code」→「Download ZIP」下載本專案或直接[點此下載](https://github.com/xiaolong70701/nccu-autofill/archive/refs/heads/main.zip)
 
 2. 解壓縮下載好的壓縮檔
 
 3. 開啟瀏覽器，依照以下方式進入擴充功能設定頁面：
-   - Chrome 輸入：`chrome://extensions/`
-   - Edge 輸入：`edge://extensions/`
+   - Chrome 輸入：[`chrome://extensions/`](chrome://extensions/)
+   - Edge 輸入：[`edge://extensions/`](edge://extensions/)
 
 4. **開啟「開發人員模式」**（畫面右上角）
 
