@@ -1,0 +1,29 @@
+{
+    "manifest_version": 3,
+    "name": "NCCU Autofill",
+    "version": "1.2",
+    "description": "Auto-fill NCCU login credentials and store IP",
+    "permissions": ["storage", "scripting"],
+    "host_permissions": [
+      "https://i.nccu.edu.tw/Login.aspx*",
+      "https://api.ipify.org/*"
+    ],
+    "action": {
+      "default_popup": "popup.html",
+      "default_title": "設定 NCCU 帳密"
+    },
+    "icons": {
+        "16": "icons/icon16.png",
+        "32": "icons/icon32.png",
+        "48": "icons/icon48.png",
+        "128": "icons/icon128.png"
+    },
+    "content_scripts": [
+      {
+        "matches": ["https://i.nccu.edu.tw/Login.aspx*"],
+        "js": ["content.js"],
+        "run_at": "document_idle"
+      }
+    ]
+  }
+  
