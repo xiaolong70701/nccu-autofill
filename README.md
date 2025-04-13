@@ -38,7 +38,7 @@
 ## 使用方式
 
 1. 第一次點擊機器人圖示，輸入你的 NCCU 帳號與密碼，按下「儲存」
-2. 之後每次開啟登入頁（https://i.nccu.edu.tw/Login.aspx）時，會自動填入帳密
+2. 之後每次開啟登入頁（包含網址 [https://i.nccu.edu.tw/Login.aspx](https://i.nccu.edu.tw/Login.aspx)的前綴）時，會自動填入帳密
 3. 幾秒後自動點擊「登入」，快速完成登入動作
 
 ## 資料隱私聲明
